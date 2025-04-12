@@ -1,0 +1,12 @@
+# Basic Recursion Questions
+1. Sum of Natural Numbers: Return the sum of numbers from 1 to n.
+2. Factorial of a Number: Calculate the factorial of a given number n.
+3. Print Numbers: Print numbers from 1 to n.
+4. Reverse a String: Return the reverse of a given string.
+5. Count Down: Print numbers from n to 1.
+6. Sum of Digits: Return the sum of the digits of a positive integer.
+7. Palindrome Check: Check if a given string is a palindrome.
+8. Find Minimum in List: Find the minimum element in a list of numbers.
+9.Find Maximum in List: Find the maximum element in a list of numbers.
+10. Power of a Number: Calculate x^y (x raised to the power y).
+
